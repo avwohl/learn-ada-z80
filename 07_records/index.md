@@ -11,11 +11,11 @@ Structured data types in Ada.
 
 | File | Concept |
 |------|---------|
-| [basic_records.adb](basic_records.adb) | Record types |
-| [record_aggregates.adb](record_aggregates.adb) | Record initialization |
-| [nested_records.adb](nested_records.adb) | Records in records |
-| [variant_records.adb](variant_records.adb) | Discriminated records |
-| [record_with_array.adb](record_with_array.adb) | Arrays in records |
+| [basic_records.adb](https://github.com/avwohl/learn-ada-z80/blob/main/07_records/basic_records.adb) | Record types |
+| [record_aggregates.adb](https://github.com/avwohl/learn-ada-z80/blob/main/07_records/record_aggregates.adb) | Record initialization |
+| [nested_records.adb](https://github.com/avwohl/learn-ada-z80/blob/main/07_records/nested_records.adb) | Records in records |
+| [variant_records.adb](https://github.com/avwohl/learn-ada-z80/blob/main/07_records/variant_records.adb) | Discriminated records |
+| [record_with_array.adb](https://github.com/avwohl/learn-ada-z80/blob/main/07_records/record_with_array.adb) | Arrays in records |
 
 ## Key Concepts
 

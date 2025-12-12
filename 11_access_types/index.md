@@ -11,9 +11,9 @@ Dynamic memory and pointers in Ada.
 
 | File | Concept |
 |------|---------|
-| [basic_access.adb](basic_access.adb) | Access type basics |
-| [linked_list.adb](linked_list.adb) | Dynamic data structures |
-| [access_parameters.adb](access_parameters.adb) | Access parameters |
+| [basic_access.adb](https://github.com/avwohl/learn-ada-z80/blob/main/11_access_types/basic_access.adb) | Access type basics |
+| [linked_list.adb](https://github.com/avwohl/learn-ada-z80/blob/main/11_access_types/linked_list.adb) | Dynamic data structures |
+| [access_parameters.adb](https://github.com/avwohl/learn-ada-z80/blob/main/11_access_types/access_parameters.adb) | Access parameters |
 
 ## Key Concepts
 

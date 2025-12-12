@@ -11,14 +11,14 @@ Getting started with Ada programming.
 
 | File | Concept |
 |------|---------|
-| [hello_world.adb](hello_world.adb) | The simplest Ada program |
-| [hello_use.adb](hello_use.adb) | Using "use" clauses |
-| [comments.adb](comments.adb) | Comment syntax |
-| [identifiers.adb](identifiers.adb) | Naming rules |
-| [reserved_words.adb](reserved_words.adb) | Ada keywords |
-| [program_structure.adb](program_structure.adb) | Program organization |
-| [semicolons.adb](semicolons.adb) | Statement terminators |
-| [blocks.adb](blocks.adb) | Declare blocks |
+| [hello_world.adb](https://github.com/avwohl/learn-ada-z80/blob/main/01_basics/hello_world.adb) | The simplest Ada program |
+| [hello_use.adb](https://github.com/avwohl/learn-ada-z80/blob/main/01_basics/hello_use.adb) | Using "use" clauses |
+| [comments.adb](https://github.com/avwohl/learn-ada-z80/blob/main/01_basics/comments.adb) | Comment syntax |
+| [identifiers.adb](https://github.com/avwohl/learn-ada-z80/blob/main/01_basics/identifiers.adb) | Naming rules |
+| [reserved_words.adb](https://github.com/avwohl/learn-ada-z80/blob/main/01_basics/reserved_words.adb) | Ada keywords |
+| [program_structure.adb](https://github.com/avwohl/learn-ada-z80/blob/main/01_basics/program_structure.adb) | Program organization |
+| [semicolons.adb](https://github.com/avwohl/learn-ada-z80/blob/main/01_basics/semicolons.adb) | Statement terminators |
+| [blocks.adb](https://github.com/avwohl/learn-ada-z80/blob/main/01_basics/blocks.adb) | Declare blocks |
 
 ## Key Concepts
 

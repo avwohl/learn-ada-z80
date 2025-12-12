@@ -11,9 +11,9 @@ Type and object attributes in Ada.
 
 | File | Concept |
 |------|---------|
-| [scalar_attributes.adb](scalar_attributes.adb) | Type attributes |
-| [array_attrs.adb](array_attrs.adb) | Array attributes |
-| [object_attributes.adb](object_attributes.adb) | Object attributes |
+| [scalar_attributes.adb](https://github.com/avwohl/learn-ada-z80/blob/main/14_attributes/scalar_attributes.adb) | Type attributes |
+| [array_attrs.adb](https://github.com/avwohl/learn-ada-z80/blob/main/14_attributes/array_attrs.adb) | Array attributes |
+| [object_attributes.adb](https://github.com/avwohl/learn-ada-z80/blob/main/14_attributes/object_attributes.adb) | Object attributes |
 
 ## Key Concepts
 

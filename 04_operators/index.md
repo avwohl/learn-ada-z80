@@ -11,11 +11,11 @@ Ada operators and expressions.
 
 | File | Concept |
 |------|---------|
-| [arithmetic_ops.adb](arithmetic_ops.adb) | +, -, *, /, mod, rem, ** |
-| [relational_ops.adb](relational_ops.adb) | =, /=, <, >, <=, >= |
-| [logical_ops.adb](logical_ops.adb) | and, or, xor, not |
-| [string_ops.adb](string_ops.adb) | & concatenation |
-| [precedence.adb](precedence.adb) | Operator precedence |
+| [arithmetic_ops.adb](https://github.com/avwohl/learn-ada-z80/blob/main/04_operators/arithmetic_ops.adb) | +, -, *, /, mod, rem, ** |
+| [relational_ops.adb](https://github.com/avwohl/learn-ada-z80/blob/main/04_operators/relational_ops.adb) | =, /=, <, >, <=, >= |
+| [logical_ops.adb](https://github.com/avwohl/learn-ada-z80/blob/main/04_operators/logical_ops.adb) | and, or, xor, not |
+| [string_ops.adb](https://github.com/avwohl/learn-ada-z80/blob/main/04_operators/string_ops.adb) | & concatenation |
+| [precedence.adb](https://github.com/avwohl/learn-ada-z80/blob/main/04_operators/precedence.adb) | Operator precedence |
 
 ## Key Concepts
 

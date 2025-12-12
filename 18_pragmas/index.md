@@ -9,7 +9,7 @@ title: "18 - Pragmas"
 
 | File | Concept |
 |------|---------|
-| [pragma_examples.adb](pragma_examples.adb) | Compiler directives |
+| [pragma_examples.adb](https://github.com/avwohl/learn-ada-z80/blob/main/18_pragmas/pragma_examples.adb) | Compiler directives |
 
 ## Key Concepts
 

@@ -9,7 +9,7 @@ title: "15 - Strings"
 
 | File | Concept |
 |------|---------|
-| [fixed_strings.adb](fixed_strings.adb) | Fixed-length strings |
+| [fixed_strings.adb](https://github.com/avwohl/learn-ada-z80/blob/main/15_strings/fixed_strings.adb) | Fixed-length strings |
 
 ## Key Concepts
 

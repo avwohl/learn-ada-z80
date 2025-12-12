@@ -11,10 +11,10 @@ Parametric polymorphism in Ada.
 
 | File | Concept |
 |------|---------|
-| [generic_procedure.adb](generic_procedure.adb) | Generic procedures |
-| [generic_function.adb](generic_function.adb) | Generic functions |
-| [generic_package.adb](generic_package.adb) | Generic packages |
-| [generic_formal_params.adb](generic_formal_params.adb) | Formal parameters |
+| [generic_procedure.adb](https://github.com/avwohl/learn-ada-z80/blob/main/12_generics/generic_procedure.adb) | Generic procedures |
+| [generic_function.adb](https://github.com/avwohl/learn-ada-z80/blob/main/12_generics/generic_function.adb) | Generic functions |
+| [generic_package.adb](https://github.com/avwohl/learn-ada-z80/blob/main/12_generics/generic_package.adb) | Generic packages |
+| [generic_formal_params.adb](https://github.com/avwohl/learn-ada-z80/blob/main/12_generics/generic_formal_params.adb) | Formal parameters |
 
 ## Key Concepts
 

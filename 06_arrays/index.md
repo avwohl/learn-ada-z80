@@ -11,13 +11,13 @@ Array types and operations in Ada.
 
 | File | Concept |
 |------|---------|
-| [basic_arrays.adb](basic_arrays.adb) | Array basics |
-| [array_aggregates.adb](array_aggregates.adb) | Initialization syntax |
-| [array_attributes.adb](array_attributes.adb) | 'First, 'Last, 'Range, 'Length |
-| [array_slices.adb](array_slices.adb) | Array slicing |
-| [multidim_arrays.adb](multidim_arrays.adb) | Multi-dimensional arrays |
-| [unconstrained_arrays.adb](unconstrained_arrays.adb) | Dynamic bounds |
-| [array_of_arrays.adb](array_of_arrays.adb) | Arrays vs matrices |
+| [basic_arrays.adb](https://github.com/avwohl/learn-ada-z80/blob/main/06_arrays/basic_arrays.adb) | Array basics |
+| [array_aggregates.adb](https://github.com/avwohl/learn-ada-z80/blob/main/06_arrays/array_aggregates.adb) | Initialization syntax |
+| [array_attributes.adb](https://github.com/avwohl/learn-ada-z80/blob/main/06_arrays/array_attributes.adb) | 'First, 'Last, 'Range, 'Length |
+| [array_slices.adb](https://github.com/avwohl/learn-ada-z80/blob/main/06_arrays/array_slices.adb) | Array slicing |
+| [multidim_arrays.adb](https://github.com/avwohl/learn-ada-z80/blob/main/06_arrays/multidim_arrays.adb) | Multi-dimensional arrays |
+| [unconstrained_arrays.adb](https://github.com/avwohl/learn-ada-z80/blob/main/06_arrays/unconstrained_arrays.adb) | Dynamic bounds |
+| [array_of_arrays.adb](https://github.com/avwohl/learn-ada-z80/blob/main/06_arrays/array_of_arrays.adb) | Arrays vs matrices |
 
 ## Key Concepts
 

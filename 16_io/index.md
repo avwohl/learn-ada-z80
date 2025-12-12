@@ -9,8 +9,8 @@ title: "16 - I/O"
 
 | File | Concept |
 |------|---------|
-| [text_io_basics.adb](text_io_basics.adb) | Text I/O basics |
-| [integer_io.adb](integer_io.adb) | Integer I/O formatting |
+| [text_io_basics.adb](https://github.com/avwohl/learn-ada-z80/blob/main/16_io/text_io_basics.adb) | Text I/O basics |
+| [integer_io.adb](https://github.com/avwohl/learn-ada-z80/blob/main/16_io/integer_io.adb) | Integer I/O formatting |
 
 ## Key Concepts
 

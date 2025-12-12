@@ -11,11 +11,11 @@ Error handling in Ada.
 
 | File | Concept |
 |------|---------|
-| [basic_exceptions.adb](basic_exceptions.adb) | Try-catch basics |
-| [user_exceptions.adb](user_exceptions.adb) | Custom exceptions |
-| [exception_propagation.adb](exception_propagation.adb) | Exception propagation |
-| [exception_info.adb](exception_info.adb) | Exception information |
-| [predefined_exceptions.adb](predefined_exceptions.adb) | Standard exceptions |
+| [basic_exceptions.adb](https://github.com/avwohl/learn-ada-z80/blob/main/10_exceptions/basic_exceptions.adb) | Try-catch basics |
+| [user_exceptions.adb](https://github.com/avwohl/learn-ada-z80/blob/main/10_exceptions/user_exceptions.adb) | Custom exceptions |
+| [exception_propagation.adb](https://github.com/avwohl/learn-ada-z80/blob/main/10_exceptions/exception_propagation.adb) | Exception propagation |
+| [exception_info.adb](https://github.com/avwohl/learn-ada-z80/blob/main/10_exceptions/exception_info.adb) | Exception information |
+| [predefined_exceptions.adb](https://github.com/avwohl/learn-ada-z80/blob/main/10_exceptions/predefined_exceptions.adb) | Standard exceptions |
 
 ## Key Concepts
 

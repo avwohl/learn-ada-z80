@@ -11,10 +11,10 @@ Concurrent programming in Ada.
 
 | File | Concept |
 |------|---------|
-| [basic_task.adb](basic_task.adb) | Task basics |
-| [task_types.adb](task_types.adb) | Task types |
-| [rendezvous.adb](rendezvous.adb) | Task communication |
-| [protected_objects.adb](protected_objects.adb) | Shared data |
+| [basic_task.adb](https://github.com/avwohl/learn-ada-z80/blob/main/13_tasking/basic_task.adb) | Task basics |
+| [task_types.adb](https://github.com/avwohl/learn-ada-z80/blob/main/13_tasking/task_types.adb) | Task types |
+| [rendezvous.adb](https://github.com/avwohl/learn-ada-z80/blob/main/13_tasking/rendezvous.adb) | Task communication |
+| [protected_objects.adb](https://github.com/avwohl/learn-ada-z80/blob/main/13_tasking/protected_objects.adb) | Shared data |
 
 ## Key Concepts
 

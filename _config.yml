@@ -17,10 +17,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - "*.adb"
-  - "*.ads"
 
-# Include Ada files in collections for listing
-collections:
-  examples:
-    output: false
+# GitHub repo for source links
+github_repo: "https://github.com/avwohl/learn-ada-z80/blob/main"

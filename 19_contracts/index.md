@@ -9,7 +9,7 @@ title: "19 - Contracts"
 
 | File | Concept |
 |------|---------|
-| [contract_examples.adb](contract_examples.adb) | Pre/Post conditions |
+| [contract_examples.adb](https://github.com/avwohl/learn-ada-z80/blob/main/19_contracts/contract_examples.adb) | Pre/Post conditions |
 
 ## Key Concepts
 

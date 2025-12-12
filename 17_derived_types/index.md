@@ -9,7 +9,7 @@ title: "17 - Derived Types"
 
 | File | Concept |
 |------|---------|
-| [derived_types.adb](derived_types.adb) | Type derivation |
+| [derived_types.adb](https://github.com/avwohl/learn-ada-z80/blob/main/17_derived_types/derived_types.adb) | Type derivation |
 
 ## Key Concepts
 

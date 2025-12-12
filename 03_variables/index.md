@@ -11,9 +11,9 @@ Data storage in Ada.
 
 | File | Concept |
 |------|---------|
-| [variables.adb](variables.adb) | Variable declarations |
-| [constants.adb](constants.adb) | Named constants |
-| [initialization.adb](initialization.adb) | Initialization patterns |
+| [variables.adb](https://github.com/avwohl/learn-ada-z80/blob/main/03_variables/variables.adb) | Variable declarations |
+| [constants.adb](https://github.com/avwohl/learn-ada-z80/blob/main/03_variables/constants.adb) | Named constants |
+| [initialization.adb](https://github.com/avwohl/learn-ada-z80/blob/main/03_variables/initialization.adb) | Initialization patterns |
 
 ## Key Concepts
 

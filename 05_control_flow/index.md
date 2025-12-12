@@ -11,17 +11,17 @@ Conditional statements and loops in Ada.
 
 | File | Concept |
 |------|---------|
-| [if_statement.adb](if_statement.adb) | If-then-else |
-| [if_expression.adb](if_expression.adb) | If expressions (Ada 2012) |
-| [case_statement.adb](case_statement.adb) | Case (switch) statements |
-| [case_expression.adb](case_expression.adb) | Case expressions (Ada 2012) |
-| [while_loop.adb](while_loop.adb) | While loops |
-| [for_loop.adb](for_loop.adb) | For loops with ranges |
-| [for_of_loop.adb](for_of_loop.adb) | For-of iterator loops (Ada 2012) |
-| [basic_loop.adb](basic_loop.adb) | Loop with exit |
-| [named_loops.adb](named_loops.adb) | Named loops |
-| [goto_statement.adb](goto_statement.adb) | Goto (use sparingly!) |
-| [null_statement.adb](null_statement.adb) | The null statement |
+| [if_statement.adb](https://github.com/avwohl/learn-ada-z80/blob/main/05_control_flow/if_statement.adb) | If-then-else |
+| [if_expression.adb](https://github.com/avwohl/learn-ada-z80/blob/main/05_control_flow/if_expression.adb) | If expressions (Ada 2012) |
+| [case_statement.adb](https://github.com/avwohl/learn-ada-z80/blob/main/05_control_flow/case_statement.adb) | Case (switch) statements |
+| [case_expression.adb](https://github.com/avwohl/learn-ada-z80/blob/main/05_control_flow/case_expression.adb) | Case expressions (Ada 2012) |
+| [while_loop.adb](https://github.com/avwohl/learn-ada-z80/blob/main/05_control_flow/while_loop.adb) | While loops |
+| [for_loop.adb](https://github.com/avwohl/learn-ada-z80/blob/main/05_control_flow/for_loop.adb) | For loops with ranges |
+| [for_of_loop.adb](https://github.com/avwohl/learn-ada-z80/blob/main/05_control_flow/for_of_loop.adb) | For-of iterator loops (Ada 2012) |
+| [basic_loop.adb](https://github.com/avwohl/learn-ada-z80/blob/main/05_control_flow/basic_loop.adb) | Loop with exit |
+| [named_loops.adb](https://github.com/avwohl/learn-ada-z80/blob/main/05_control_flow/named_loops.adb) | Named loops |
+| [goto_statement.adb](https://github.com/avwohl/learn-ada-z80/blob/main/05_control_flow/goto_statement.adb) | Goto (use sparingly!) |
+| [null_statement.adb](https://github.com/avwohl/learn-ada-z80/blob/main/05_control_flow/null_statement.adb) | The null statement |
 
 ## Key Concepts
 
