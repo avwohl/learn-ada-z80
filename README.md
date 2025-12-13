@@ -224,20 +224,20 @@ cpmemu hello.com
 
 Suggested order for beginners:
 
-1. **Basics** (01_basics/) - Start here!
-2. **Types** (02_types/) - Ada's strong typing
-3. **Variables** (03_variables/) - Data storage
-4. **Operators** (04_operators/) - Expressions
-5. **Control Flow** (05_control_flow/) - Logic
-6. **Arrays** (06_arrays/) - Collections
-7. **Records** (07_records/) - Structures
-8. **Subprograms** (08_subprograms/) - Functions
-9. **Packages** (09_packages/) - Modularity
-10. **Exceptions** (10_exceptions/) - Error handling
-11. **Access Types** (11_access_types/) - Pointers
-12. **Generics** (12_generics/) - Templates
-13. **Tasking** (13_tasking/) - Concurrency
-14. **Applications** (20_applications/) - Put it together!
+1. **Basics** ([01_basics/](https://github.com/avwohl/learn-ada-z80/tree/main/01_basics)) - Start here!
+2. **Types** ([02_types/](https://github.com/avwohl/learn-ada-z80/tree/main/02_types)) - Ada's strong typing
+3. **Variables** ([03_variables/](https://github.com/avwohl/learn-ada-z80/tree/main/03_variables)) - Data storage
+4. **Operators** ([04_operators/](https://github.com/avwohl/learn-ada-z80/tree/main/04_operators)) - Expressions
+5. **Control Flow** ([05_control_flow/](https://github.com/avwohl/learn-ada-z80/tree/main/05_control_flow)) - Logic
+6. **Arrays** ([06_arrays/](https://github.com/avwohl/learn-ada-z80/tree/main/06_arrays)) - Collections
+7. **Records** ([07_records/](https://github.com/avwohl/learn-ada-z80/tree/main/07_records)) - Structures
+8. **Subprograms** ([08_subprograms/](https://github.com/avwohl/learn-ada-z80/tree/main/08_subprograms)) - Functions
+9. **Packages** ([09_packages/](https://github.com/avwohl/learn-ada-z80/tree/main/09_packages)) - Modularity
+10. **Exceptions** ([10_exceptions/](https://github.com/avwohl/learn-ada-z80/tree/main/10_exceptions)) - Error handling
+11. **Access Types** ([11_access_types/](https://github.com/avwohl/learn-ada-z80/tree/main/11_access_types)) - Pointers
+12. **Generics** ([12_generics/](https://github.com/avwohl/learn-ada-z80/tree/main/12_generics)) - Templates
+13. **Tasking** ([13_tasking/](https://github.com/avwohl/learn-ada-z80/tree/main/13_tasking)) - Concurrency
+14. **Applications** ([20_applications/](https://github.com/avwohl/learn-ada-z80/tree/main/20_applications)) - Put it together!
 
 ---
 
