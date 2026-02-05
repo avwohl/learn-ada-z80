@@ -268,7 +268,6 @@ Feel free to add more examples! Guidelines:
 - [cpmdroid](https://github.com/avwohl/cpmdroid) - CP/M emulator for Android
 - [ioscpm](https://github.com/avwohl/ioscpm) - CP/M emulator for iOS/macOS
 - [uada80](https://github.com/avwohl/uada80) - Ada compiler for Z80/CP/M
-- [uc80](https://github.com/avwohl/uc80) - C compiler for Z80/CP/M
 - [um80_and_friends](https://github.com/avwohl/um80_and_friends) - MACRO-80 compatible assembler/linker toolchain
 - [upeepz80](https://github.com/avwohl/upeepz80) - Peephole optimizer for Z80 assembly
 - [uplm80](https://github.com/avwohl/uplm80) - PL/M-80 compiler for Z80
