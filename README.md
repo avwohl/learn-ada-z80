@@ -14,7 +14,7 @@ concepts for the uada80 compiler targeting the Z80 processor running CP/M.
 ### Free E-Books and Tutorials
 
 - **[Ada Programming Wikibook](https://en.wikibooks.org/wiki/Ada_Programming)** - Community-maintained tutorial covering all Ada topics ([PDF version](https://upload.wikimedia.org/wikipedia/commons/8/8d/Ada_Programming.pdf))
-- **[Ada Distilled](https://www.adaic.org/resources/add_content/docs/distilled/ada-distilled-24-january-2011-ada-2005-version.pdf)** - Concise guide for experienced programmers
+- **[Ada Distilled](https://www.adaic.org/wp-content/uploads/2010/05/Ada-Distilled-24-January-2011-Ada-2005-Version.pdf)** - Concise guide for experienced programmers
 - **[Ada 95 Tutorial (Coronado)](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm)** - 33 chapters covering the entire language
 - **[Ada95 Lovelace Tutorial](https://dwheeler.com/lovelace/)** - Self-paced tutorial by David Wheeler
 - **[Free Ada E-Books at AdaForge](https://www.adaforge.org/Learn/)** - 18 free e-books including "Ada - a crash course"
