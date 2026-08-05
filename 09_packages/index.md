@@ -21,7 +21,7 @@ Modular programming in Ada.
 ## Key Concepts
 
 ```ada
--- Specification https://github.com/avwohl/learn-ada-z80/blob/main/09_packages/.ads)
+-- Specification (stack_pkg.ads)
 package Stack is
    procedure Push(Item : Integer);
    function Pop return Integer;
@@ -29,7 +29,7 @@ private
    -- Hidden implementation
 end Stack;
 
--- Body https://github.com/avwohl/learn-ada-z80/blob/main/09_packages/.adb)
+-- Body (stack_pkg.adb)
 package body Stack is
    -- Implementation
 end Stack;
